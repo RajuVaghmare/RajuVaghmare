@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaghmare Raju</h1>
 <h3 align="center">A passionate FullStack developer from India/MERN Stack Developer</h3>
-<img aligh="right" alt ="coding" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
+<img aligh="right"  alt ="coding" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuvaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="rajuvaghmare" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing,JavaScript Libraries**
