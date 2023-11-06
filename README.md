@@ -3,7 +3,7 @@
 <img aligh="right"  alt ="coding" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuvaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="rajuvaghmare" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing,JavaScript Libraries**
+- 🌱 I’m currently learning **JavaScript Libraries**
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,TailwindCSS,JavaScript,NodeJs,ExpressJS,MySQL,ReactJS,Mongoose,Python**
 
